@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=USxRrMWzK1s
+
 # Simple CD pipeline demo at scale with Jenkins Swarm,Docker Swarm and Goland
 
 
